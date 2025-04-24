@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Engineering Intern at Dropbox and AWS!<br>I’m originally from Egypt and currently studying Computer Science at the University of South Florida!<br>I love playing basketball and going to the beach with my friends!<br><br><br><br><br><br><br><br><br>
+I am a Software Engineering Intern at Dropbox and AWS!<br>I’m originally from Egypt and currently studying Computer Science at the University of South Florida!<br>I love playing basketball and going to the beach with my friends!
 
 
 ## 🌐 Socials:
